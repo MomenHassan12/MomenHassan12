@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+)](https://git.io/typing-svg)"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer and Full stack Developer at Banqu du caire "Digital factory"
@@ -15,9 +15,9 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/momenhassan041" target="_blank"><img src="https://img.shields.io/badge/-Momen%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/momen.hassan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/momen.hassan" target="_blank"><img src="https://img.shields.io/badge/Facebook-navy?style=for-the-badge&labelColor=navy&logo=facebook"/></a>
+<a href="https://www.linkedin.com/in/momen-hassan-9b99381b3/" target="_blank"><img src="https://img.shields.io/badge/-Momen%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://https://www.instagram.com/momenhassan20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/momen.hassan.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-navy?style=for-the-badge&labelColor=navy&logo=facebook"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -31,33 +31,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)&nbsp;
-
-### Educational Background:
-- **2020:** Bachelor Degree in Computer Science from Misr University for Science and Technology.
-  - Major: CS
-  - Grade: Very Good
-  - GPA: 3.04/4.00
-  - **Graduation Project:** Gesture control Robot
-    - Robot car can move using a controlled glove with flex sensors that record hand movement in specific directions. These signals are converted into commands sent by RF module to the robot.
-    - Grade: Excellent
-
-### Courses:
-- **2024:** Front-End Web Development Route
-- **2023:** Automotive Software BootCamp Sprints
-- **2022:** Introduction to AUTOSAR Sprints
-
-### Projects:
-- **Bakery Website:**
-  - Developed a multi-section bakery website featuring home, about, and location sections. Implemented design layouts using display: inline-block and float techniques to ensure cross-browser compatibility and responsiveness.
-  - Technologies Used: HTML5, CSS3
-
-- **Fokir Portfolio:**
-  - Created a static portfolio website with optional animation for the first section. Focused on layout design and aesthetics using Bootstrap and custom CSS.
-  - Technologies Used: HTML5, CSS3, Bootstrap
-
-- **Responsive Image Gallery:**
-  - Developed a responsive image gallery website demonstrating the power of CSS for layout and responsiveness. Employed advanced CSS techniques like masonry layout for the gallery.
-  - Technologies Used: HTML5, CSS3
-
-- **Bootstrap-Based Website:**
-  - Created a fully 
