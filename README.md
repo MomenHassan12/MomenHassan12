@@ -13,8 +13,6 @@
 - 🏢 I'm a Software Engineer and Full stack Developer at Banqu du caire "Digital factory"
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Facts: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. I'm a basketball player for 15 years and a basketball coach for 5 years 🏀.
-
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/momenhassan041" target="_blank"><img src="https://img.shields.io/badge/-Momen%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
