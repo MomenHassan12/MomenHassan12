@@ -10,7 +10,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Full stack Developer at Banqu du caire "Digital factory"
+- 🏢 I'm a Frontend Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 ### Connect with Me :
@@ -31,3 +31,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)&nbsp;
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MomenHassan12&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+
